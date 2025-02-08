@@ -1,1 +1,1 @@
-# healthcare-trajectory-prediction-system
+# Healthcare-Trajectory-Prediction-System
