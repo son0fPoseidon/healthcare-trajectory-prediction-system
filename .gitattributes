@@ -1,0 +1,9 @@
+data filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.DURATION.test filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.INTERVAL.test filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.TYPE.test filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.test filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.DURATION.train filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.INTERVAL.train filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.TYPE.train filter=lfs diff=lfs merge=lfs -text
+data/preprocessing_271.train filter=lfs diff=lfs merge=lfs -text
